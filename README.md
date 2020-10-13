@@ -1,8 +1,24 @@
-# Gradient-Able-free-bootstrap-admin-template
+# [Gradient Able](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro) Free Bootstrap 4 Admin Template
 
-Gradient Able Admin Template made using Bootstrap 4 framework, It is a free lite version of [Gradient Able Premium Admin Template](https://codedthemes.com/item/gradient-able-admin-template/) that makes you fulfill your entire Dashboard needs.
+[Gradient Able](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro) is a Free Dashboard Template made using Bootstrap 4 framework, It is a free lite version of [Gradient Able Pro](https://codedthemes.com/item/gradient-able-admin-template/) Dashboard Template that makes you fulfill your Dashboard needs. Gradient Able Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
 
-![Gradient Able Free Admin Template preview image](https://github.com/codedthemes/Gradient-Able-free-bootstrap-admin-template/blob/master/dist/assets/images/git/git-preview.png)
+- The code structure is high flexible to use and modify. 
+- Its design adapt any screen size easily even if retina screens.
+- It is a modern concept dashboard design with eye-catchy colors.
+
+<br />
+
+**Links**
+
+- [Gradient Able](http://lite.codedthemes.com/gradient-able/bootstrap/index.html) - LIVE Demo
+- [Gradient Able - Flask](https://appseed.us/admin-dashboards/flask-dashboard-gradientable) - Flask version of Datta Able design, coded by AppSeed
+- [Gradient Able - Django](https://appseed.us/admin-dashboards/django-dashboard-gradientable) - A simple Django starter provided by AppSeed
+
+<br />
+
+![Gradient Able - Free Bootstrap Template, main product screen.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-template-gradient-able/main/media/bootstrap-template-gradient-able-screen.png)
+
+<br />
 
 Gradient Able admin template comes with variety of Bootstrap components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & authentication pages.
 
@@ -122,3 +138,8 @@ Please generate Github issue if you found any bug in any version. We are try to 
  - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
  - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
  - Instagram [https://www.instagram.com/codedthemes/](https://www.instagram.com/codedthemes/)
+
+<br />
+
+---
+[Gradient Able](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro) - design provided by CodedThemes.
